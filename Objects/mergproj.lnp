@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\mergproj.obj" 
+TO ".\Objects\mergproj" 
+PRINT(".\Listings\mergproj.m51")
